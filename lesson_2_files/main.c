@@ -2,7 +2,7 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-03 21:12:12
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-10-05 14:19:22
+ * @LastEditTime: 2022-10-05 14:30:39
  * @FilePath: /dir_for_C_learning/lesson_2_files/main.c
  * @Description:
  *
@@ -16,6 +16,6 @@ int main(void)
     //  666 eee jjj    print_test(3);
     set_test_number(30);
     call_print_test(get_test_number());
-    printf("Hello_differs_9\n");
+    printf("Hello_differs_10\n");
     return 0;
 }
