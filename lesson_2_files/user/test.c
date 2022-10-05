@@ -2,7 +2,7 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-04 16:34:25
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-10-05 10:11:40
+ * @LastEditTime: 2022-10-05 15:31:32
  * @FilePath: /dir_for_C_learning/lesson_2_files/user/test.c
  * @Description:
  *
@@ -17,7 +17,7 @@ int number_of_tests = 0;
  */
 void set_test_number(int test_number)
 {
-    number_of_tests = test_number + 3;
+    number_of_tests = test_number + 8;
 }
 /**
  * @brief Testnumber
