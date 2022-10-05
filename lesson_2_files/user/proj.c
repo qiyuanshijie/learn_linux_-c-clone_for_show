@@ -2,7 +2,7 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-03 21:13:02
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-10-05 10:06:58
+ * @LastEditTime: 2022-10-05 15:36:10
  * @FilePath: /dir_for_C_learning/lesson_2_files/user/proj.c
  * @Description:
  *
@@ -31,5 +31,5 @@ static void print_test(int i)
  */
 void call_print_test(int i)
 {
-    print_test(6);
+    print_test(i);
 }
