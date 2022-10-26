@@ -2,7 +2,7 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-03 21:13:02
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-10-05 15:31:26
+ * @LastEditTime: 2022-10-27 02:31:38
  * @FilePath: /dir_for_C_learning/lesson_2_files/user/proj.c
  * @Description:
  *
@@ -26,7 +26,7 @@ static void print_test(int i)
 /**
  * @description:  用于变量输入打印次数
  * @param  i 用于输入次数
- * @brief shurubuingdaying
+ * @brief 输入变量打印
  * @return {*} 返回0
  */
 void call_print_test(int i)
