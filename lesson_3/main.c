@@ -2,7 +2,7 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-03 21:12:12
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-12-06 20:06:56
+ * @LastEditTime: 2022-12-06 22:25:03
  * @FilePath: /dir_for_C_learning/lesson_3/main.c
  * @Description:
  *
@@ -14,8 +14,9 @@
 int main(void)
 {
     //  666 eee jjj   22 print_test(3);
+    int a[] = {1, 2, 3};
     set_test_number(10);
     call_print_test(get_test_number());
-    printf("Hello_differs_10\n");
+    //    printf("Hello_differs_10\n");
     return 0;
 }
