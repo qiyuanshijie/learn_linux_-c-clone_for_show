@@ -2,8 +2,8 @@
  * @Author: yantanyi webside@tooeh.xyz
  * @Date: 2022-10-03 21:12:12
  * @LastEditors: yantanyi webside@tooeh.xyz
- * @LastEditTime: 2022-10-28 10:21:40
- * @FilePath: /dir_for_C_learning/lesson_2_files/main.c
+ * @LastEditTime: 2022-12-06 20:06:56
+ * @FilePath: /dir_for_C_learning/lesson_3/main.c
  * @Description:
  *
  * Copyright (c) 2022 by yantanyi webside@tooeh.xyz, All Rights Reserved.
